@@ -1,4 +1,4 @@
-main: CL-BrawlArena
+main: CreeperLewis/Main
 api: 1.13.0
 load: STARTUP
 name: CL-BrawlArena
