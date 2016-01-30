@@ -1,0 +1,17 @@
+main: CL-BrawlArena
+api: 1.13.0
+load: STARTUP
+name: CL-BrawlArena
+description: "Plugin that you can create an arena with unli-players!(1vs1 to 100vs100!)"
+version: 1.0RELEASE
+author: CreeperLewis
+
+commands:
+  brawl:
+    description: "Play or quit a brawl game"
+    permission: brawl.cmd
+
+permissions:
+  brawl.cmd:
+    default: true
+    description: "Allow usage of CL-BrawlArena command"
